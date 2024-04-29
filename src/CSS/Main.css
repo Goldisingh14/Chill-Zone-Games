@@ -1,0 +1,47 @@
+.first_div{
+   
+}
+.getInDetailBtn{
+    
+    background-image: linear-gradient(90deg, #EF6CBE 0%, #5E71F2 100%);
+}
+.activeBtn{
+    background: linear-gradient(90deg, #EF6CBE 0%, #5E71F2 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
+}
+.activeBtnHover:hover{
+    background: linear-gradient(90deg, #EF6CBE 0%, #5E71F2 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
+}
+.bgColor{
+    background: linear-gradient(90deg, #EF6CBE 0%, #5E71F2 100%)
+}
+.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+    background-color: transparent !important;
+    box-shadow: none !important;
+    padding: 10px 0px;
+}
+.mobile_navbar header{
+    background-color: transparent !important;
+    box-shadow: none !important;
+    padding: 10px 0px !important;
+}
+/* .css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root:last-child{
+    color: #D80027 !important;
+} */
+@media(max-width:884px){
+    .eyeBol{
+        display: none;
+    }
+}
+@media(max-width:640px){
+    .gameLogo{
+        display: none;
+    }
+}
